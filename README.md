@@ -1,1 +1,1 @@
-halominer.github.io
+ha1ominer.github.io
